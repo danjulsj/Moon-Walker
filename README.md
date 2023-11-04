@@ -11,5 +11,17 @@ What animal do we commonly find in the smallest crevices of our homes, somehow c
 ### Why?
 In spacesuits, astronauts can't move particularly well in a massive, clunky thing. Using an exoskeleton would be pointless if the dude can't really do anything. Rather, this solution is an external mobility device that moves us as compared to exoskeletons that respond to us moving. 
 It is important to note that the Moon Walker is an autonomous device - the user inputs a specific location on a predefined map produced by radar scans of the surface, and the Moon Walker will decide the optimal path to the destination. This isn't anything new - I did a project in APCSA as a HS sophomomre that's similar to this, Mountain Climber, in which we code an algorithm to determine a path through a predefined set of data that maps the altitude of different points on the map by adding the adjacent point with the smallest altitude difference to a List that holds the points in the path. 
+This method of transportation allows astronauts to cross rocky terrains with ease while not worrying about their equipment getting damaged. 
 
+### It's not just a walker
+The Moon Walker isn't just for walking - it's a mobility device, which means it assists in all forms of movement from transportation to increasing the user's range of motion. Originally, we'd be bound by our arm length and the gravitational pull of a celetial body. However, the Moon walker's arm can extend to raise the user:
+<img src="https://github.com/danjulsj/Moon-Walker/blob/main/moon%20walker%20images/Extended2View.png"/>
+Allowing the user to freely use their arms while not worrying about stability or mobility.
 
+### It's a carrier too
+The Moon Walker can also be used to carry materials and/or multiple people too. It's a mobility device in the most vague definition of the term. It can transport someone somewhere, it can help increase an astronaut's reach, why not have it be a resource/personnel carrier? 
+<img src="https://github.com/danjulsj/Moon-Walker/blob/main/moon%20walker%20images/CarrierVersion.png"/>
+Need a squad of engineers to fiix up a crashed craft? No problem. Need to deploy a drilling team? No problem. Want to explore something and not worry about sufficient oxygen supplies? Even less of a problem. The body of the Moon Walker isn't all just mechanisms and the such - it's also a storage space for other supplies such as tools or extra oxygen. If your suit is running low on oxygen, head back to the carrier for a refill. 
+
+## Summary
+The idea of a car for transportation isn't bad in any means, nor is it exactly ineffective. A car can do its job fine on an extraterrestrial body. The only issue is that a moon buggy is a 50-year old idea. That thing is from the 70's. It's time for us, as the next generation of explorers, to realize that exploration only comes with innovation. We can't only rely on 50-year old technology. When we explored the ocean floor, we didn't take a ship down there except as unalived. When we went to Space we didn't rely on biplanes of the 1920's. Now we want to explore the Moon's surface and Mars' surface. We can't solely rely on a car - the environment won't permit it. We need to innovate to usher in the next age of exploration. Moon buggies, as cute as they sound and as well as they currently function, are not suited for the Moon's environment. We need something that is versatile and will allow us to reach heights never before. Literally. 

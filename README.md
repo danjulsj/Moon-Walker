@@ -8,5 +8,8 @@ What animal do we commonly find in the smallest crevices of our homes, somehow c
 
 <img src="https://github.com/danjulsj/Moon-Walker/blob/main/moon%20walker%20images/NormalView.png"/>
 
+### Why?
+In spacesuits, astronauts can't move particularly well in a massive, clunky thing. Using an exoskeleton would be pointless if the dude can't really do anything. Rather, this solution is an external mobility device that moves us as compared to exoskeletons that respond to us moving. 
+It is important to note that the Moon Walker is an autonomous device - the user inputs a specific location on a predefined map produced by radar scans of the surface, and the Moon Walker will decide the optimal path to the destination. This isn't anything new - I did a project in APCSA as a HS sophomomre that's similar to this, Mountain Climber, in which we code an algorithm to determine a path through a predefined set of data that maps the altitude of different points on the map by adding the adjacent point with the smallest altitude difference to a List that holds the points in the path. 
 
 
